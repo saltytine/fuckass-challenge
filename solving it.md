@@ -55,7 +55,7 @@ By simplifying the above expression, we can obtain:
 S=[(n-c0)*(n-1)!]/(c0!*c1!*...*c9!)=[(n-c0)*(n-1)!]/∏(i=0 to 9)ci!
 ```
   
-(Implementation)[./challenge3272.cpp]  
+[Implementation](./challenge3272.cpp)  
   
 let n be the given number, m=⌊((n+1)/2)⌋  
 time complexity: O(n log n×10^m)  
