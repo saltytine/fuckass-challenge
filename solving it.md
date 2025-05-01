@@ -1,4 +1,4 @@
-cccording to the description, if x is a palindromic integer and divisible by k, then x is called a k-palindromic integer  
+according to the description, if x is a palindromic integer and divisible by k, then x is called a k-palindromic integer  
 the question requires finding the number of k-palindromic integers with a digit length of n  
 according to the definition of palindromic integers, the sequence of digits on the left side of a palindromic integer is the same as the reverse sequence on the right side  
 if the digits on the left side are known, the digits on the right side can be determined  
